@@ -11,5 +11,5 @@ npm i -g now
 
 # Deploy
 ```
-now johnlindquist/todos-api
+now kaydwithers/dummy-data
 ```
