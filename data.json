@@ -1,4 +1,4 @@
-{
+{ "payload": {
 	"payload": {
 		"score": "1.2",
 		"review_count": 180,
@@ -259,4 +259,5 @@
 	"security": {
 		"deflate": null
 	}
+}
 }
