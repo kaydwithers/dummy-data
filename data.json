@@ -1,56 +1,58 @@
 {
-	"companyName": "Albany City Holden",
-	"fax": "08 9841 8623",
-	"phone": "08 9842 8000",
-	"tradingHours": "Monday - Friday 8.30 am - 6.00 pm, Saturday 8.30 am - 12.30 pm",
-	"address": "92-98 Earl Street",
-	"suburb": "Albany",
-	"state": {
-		"stateName": "Western Australia",
-		"stateCode": "WA",
-		"stateMapId": "[western-australia]"
-	},
-	"regions": [{
-		"regionName": "South West WA",
-		"regionMapId": "[south-west-wa]"
-	}],
-	"postcode": "6330",
-	"email": "john@albanycitymotors.com.au",
-	"latitude": "-35.024769",
-	"longitude": "117.885455",
-	"serviceTimes": "8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:30am - 12:00pm;Closed",
-	"tradingTimes": "8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:30am - 12:00pm;Closed",
-	"partsTimes": "8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;9:00am - 12:00pm;Closed",
-	"retailnetDealerCode": "000362",
-	"legacyID": "38",
-	"vendor": "Holden",
-	"alternateName": "",
-	"BACCode": "225517",
-	"chairmanAward": "",
-	"dealerPrincipal": "",
-	"dealerPrincipalPhoto": "",
-	"dealershipURL": "albany-city.gmholdendealer.com.au",
-	"dealerSummary": "If you are searching for a new or used Holden vehicle, our friendly, professional staff at Albany City Holden, Albany are ready to provide you with all the help you need. We are easily able to assist you with any car purchase or vehicle maintenance and servicing tips. As a Holden dealer, we have you covered from start to finish. Come into our local Albany Holden Dealership and talk to one of our staff today.",
-	"services": [{
-		"id": "1220582035335",
-		"serviceName": "New Holden Vehicles",
-		"serviceDescription": ""
-	}, {
-		"id": "1220582035351",
-		"serviceName": "Holden Service and Parts",
-		"serviceDescription": ""
-	}, {
-		"id": "1220582035359",
-		"serviceName": "Holden Extended Warranty",
-		"serviceDescription": ""
-	}, {
-		"id": "1220582035363",
-		"serviceName": "Lions Den Store",
-		"serviceDescription": ""
-	}, {
-		"id": "1236977232418",
-		"serviceName": "Holden Rental",
-		"serviceDescription": ""
-	}],
-	"website": "http://www.albanycityholden.com.au"
+	"payload": {
+		"companyName": "Albany City Holden",
+		"fax": "08 9841 8623",
+		"phone": "08 9842 8000",
+		"tradingHours": "Monday - Friday 8.30 am - 6.00 pm, Saturday 8.30 am - 12.30 pm",
+		"address": "92-98 Earl Street",
+		"suburb": "Albany",
+		"state": {
+			"stateName": "Western Australia",
+			"stateCode": "WA",
+			"stateMapId": "[western-australia]"
+		},
+		"regions": [{
+			"regionName": "South West WA",
+			"regionMapId": "[south-west-wa]"
+		}],
+		"postcode": "6330",
+		"email": "john@albanycitymotors.com.au",
+		"latitude": "-35.024769",
+		"longitude": "117.885455",
+		"serviceTimes": "8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:30am - 12:00pm;Closed",
+		"tradingTimes": "8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:00am - 5:30pm;8:30am - 12:00pm;Closed",
+		"partsTimes": "8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;8:00am - 5:00pm;9:00am - 12:00pm;Closed",
+		"retailnetDealerCode": "000362",
+		"legacyID": "38",
+		"vendor": "Holden",
+		"alternateName": "",
+		"BACCode": "225517",
+		"chairmanAward": "",
+		"dealerPrincipal": "",
+		"dealerPrincipalPhoto": "",
+		"dealershipURL": "albany-city.gmholdendealer.com.au",
+		"dealerSummary": "If you are searching for a new or used Holden vehicle, our friendly, professional staff at Albany City Holden, Albany are ready to provide you with all the help you need. We are easily able to assist you with any car purchase or vehicle maintenance and servicing tips. As a Holden dealer, we have you covered from start to finish. Come into our local Albany Holden Dealership and talk to one of our staff today.",
+		"services": [{
+			"id": "1220582035335",
+			"serviceName": "New Holden Vehicles",
+			"serviceDescription": ""
+		}, {
+			"id": "1220582035351",
+			"serviceName": "Holden Service and Parts",
+			"serviceDescription": ""
+		}, {
+			"id": "1220582035359",
+			"serviceName": "Holden Extended Warranty",
+			"serviceDescription": ""
+		}, {
+			"id": "1220582035363",
+			"serviceName": "Lions Den Store",
+			"serviceDescription": ""
+		}, {
+			"id": "1236977232418",
+			"serviceName": "Holden Rental",
+			"serviceDescription": ""
+		}],
+		"website": "http://www.albanycityholden.com.au"
+	}
 }
